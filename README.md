@@ -1,6 +1,8 @@
 # **KokoroTTS-Mixer**
 Mix and match different Kokoro voices to create your perfect text-to-speech voice. Intuitive UI that lets you combine multiple voices with different weights to create custom voice combinations.
 
+![KokoroTTS Mixer Gradio UI](kokoro-mixer-gradio-ui.png)
+
 ## Setup
 
 1. Clone this repository:
